@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of ngx-mat-datetime-picker
+ */
+export * from './lib';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL2RhdGV0aW1lLXBpY2tlci9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUNILGNBQWMsT0FBTyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5neC1tYXQtZGF0ZXRpbWUtcGlja2VyXHJcbiAqL1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYic7XHJcbiJdfQ==
